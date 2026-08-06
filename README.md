@@ -86,6 +86,20 @@ End-to-end platform for data visualization and insight generation.
 <tr>
 <td colspan="2" valign="top">
 
+### 🤖 Vineeth GPT
+**Ask-Me-Anything, On the Record**
+
+A personal GPT that answers questions about me — projects, stack, what I'm open to next. Editorial-style UI with light/dark mode, running on Groq's free tier.
+
+`fastapi` `groq` `llama-3.3-70b` `vercel`
+
+![Status](https://img.shields.io/badge/status-Live-33D17A?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### 🎨 Creatiwise — Brand Identity System
 Four logo concepts — **The Spark**, **The Grid**, **The Orbit**, and an initial gradient mark — built out across 8 dark/light variations in Figma.
 
