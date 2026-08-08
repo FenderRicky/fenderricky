@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8186D,50:7C3AED,100:00D9FF&height=230&section=header&text=RICKY%20FENDER&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Design%20%C2%B7%20Code%20%C2%B7%20AI%20%E2%80%94%20in%20no%20particular%20order&descAlignY=56&descSize=18" width="100%"/>
 
-<a href="https://rickyfender.netlify.app">
+<a href="https://rickyfender.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=E8186D&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Brand+%26+Identity+Designer;Full-Stack+Developer;AI+Engineer;Building+ARIA+%F0%9F%A4%96" />
 </a>
 
@@ -141,7 +141,7 @@ Four logo concepts — **The Spark**, **The Grid**, **The Orbit**, and an initia
 Open to freelance & internship work across design and engineering.
 
 <a href="mailto:thadigotlavineeth7@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-E8186D?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
-<a href="https://rickyfender.netlify.app"><img src="https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+<a href="https://rickyfender.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 <a href="https://github.com/fenderricky"><img src="https://img.shields.io/badge/Follow-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:E8186D&height=110&section=footer" width="100%"/>
