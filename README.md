@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://rickyfender.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rickyfender.netlify.app-E8186D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://rickyfender.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rickyfender.vercel.app-E8186D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:thadigotlavineeth7@gmail.com"><img src="https://img.shields.io/badge/Email-thadigotlavineeth7%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/fenderricky"><img src="https://img.shields.io/badge/GitHub-fenderricky-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
@@ -72,14 +72,14 @@ A locally-run AI OS with persistent vector memory + live screen-context awarenes
 </td>
 <td width="50%" valign="top">
 
-### 📊 InsightFlow
-**Full-Stack Analytics Platform**
+### 📊 Groundtruth
+**Profile Readiness Audit**
 
-End-to-end platform for data visualization and insight generation.
+Analyzes your real GitHub activity and resume together — skill gaps, over-exposure, and job readiness. No fluff, no template scoring.
 
-`next.js` `node.js` `express` `mongodb`
+`fastapi` `groq` `llama-3.3-70b` `vercel`
 
-![Status](https://img.shields.io/badge/status-Shipped-00D9FF?style=flat-square)
+![Status](https://img.shields.io/badge/status-Live-33D17A?style=flat-square)
 
 </td>
 </tr>
