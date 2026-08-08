@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://rickyfender.netlify.app"><img src="https://img.shields.io/badge/Portfolio-rickyfender.netlify.app-E8186D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://rickyfender.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rickyfender.netlify.app-E8186D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:thadigotlavineeth7@gmail.com"><img src="https://img.shields.io/badge/Email-thadigotlavineeth7%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/fenderricky"><img src="https://img.shields.io/badge/GitHub-fenderricky-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
